@@ -3,8 +3,8 @@ from telegram import (
     InlineKeyboardMarkup, InlineKeyboardButton, KeyboardButton, ReplyKeyboardMarkup, ReplyKeyboardRemove, ChatAction
 )
 
-CHANNEL_ID = -1001736766540
-TOKEN = "5358957794:AAGjOAwGD1cAsFTD470LsbypxhsqjMv4DSM"
+CHANNEL_ID = -100
+TOKEN = ""
 GLOBAL_LIKES = 0
 GLOBAL_DISLIKES = 0
 
